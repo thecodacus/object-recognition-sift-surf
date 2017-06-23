@@ -10,6 +10,7 @@ Object Recognition tutorial refference for http://thecodacus.com
 ### Installing
 
 * Put a cropped image of the object you want to detect in live stream, in the **"TrainingData"** folder  
+* Rename the image with **"TrainImg.jpeg"** (along with the extention)
 
 ## Running the tests
 
