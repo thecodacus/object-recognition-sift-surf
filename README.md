@@ -16,7 +16,7 @@ Object Recognition tutorial refference for http://thecodacus.com
 * run the detector.py and enjoy
 
 ## Reference
-* for detailed explaination visit 
+* for detailed explaination visit [http://thecodacus.com/object-recognition-using-opencv-python/](http://thecodacus.com/object-recognition-using-opencv-python/)
 
 ## Authors
 
